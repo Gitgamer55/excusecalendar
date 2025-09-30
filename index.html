@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Yearly Observance Calendar</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Interactive Yearly Observance Calendar</h1>
+  <h3>(Or, an excuse calendar)</h3>
+  
+  <div class="calendar-container">
+    <select id="monthSelector"></select>
+    <div id="calendar"></div>
+  </div>
+
+  <!-- Modal -->
+  <div id="popup" class="modal">
+    <div class="modal-content">
+      <span id="closeBtn" class="close">&times;</span>
+      <div id="popupText"></div>
+    </div>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
