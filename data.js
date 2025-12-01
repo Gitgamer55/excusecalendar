@@ -133,7 +133,7 @@ const events = {
   "05-11": ["Mother’s Day (2nd Sunday in May 2025)"],
   "05-12": ["International Nurses Day"],
   "05-13": ["World Cocktail Day"],
-  "05-14": ["No excuses today. Womp womp"],
+  "05-14": ["Mother's day (only works if you are in the US and the year is a multiple of 5 plus 3 e.g. 2023, 2028)"],
   "05-15": ["International Day of Families (UN)"],
   "05-16": ["International Day of Light (UNESCO)"],
   "05-17": ["International Day Against Homophobia, Biphobia, and Transphobia"],
